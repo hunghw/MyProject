@@ -7,7 +7,7 @@
 
 - **Draw & Paint (Android App)**  
 	An Android App that can draw a line, curve, and lots of shapes, like circle, triangle, star, heart.  
-	Demo video: [https://hwhung0111.github.io/MyProject/docs/DRAW-and-PAINT.html](https://hwhung0111.github.io/MyProject/docs/DRAW-and-PAINT.html)  
+	Demo video: [https://hwhung0111.github.io/MyProject/DRAW-and-PAINT.html](https://hwhung0111.github.io/MyProject/DRAW-and-PAINT.html)  
 
 - **Loca! (Android App)**  
     Loca! is a whole new type of social platform which lets you find interesting things and people near you.  
@@ -22,8 +22,8 @@
 	Demo video: [https://hwhung0111.github.io/2017NASA_NCTUBeach](https://hwhung0111.github.io/2017NASA_NCTUBeach)  
     
 - **Badminton Scoreboard (Android App)**  
-    Apk: [https://hwhung0111.github.io/MyProject/docs/Badminton_Scoreboard_v1_0.apk](https://hwhung0111.github.io/MyProject/docs/Badminton_Scoreboard_v1_0.apk)  
-	<img src="https://hwhung0111.github.io/MyProject/docs/Screenshot_BadmintonScoreboard.jpg" width="576">  
+    Apk: [https://hwhung0111.github.io/MyProject/Badminton_Scoreboard_v1_0.apk](https://hwhung0111.github.io/MyProject/Badminton_Scoreboard_v1_0.apk)  
+	<img src="https://hwhung0111.github.io/MyProject/Screenshot_BadmintonScoreboard.jpg" width="576">  
 
 - **Forecast Northern Lights Norway (Python)**  
 	A Python web crawler that automatically crawls Norway northern light forecast result and sends the result to the smartphone if the northern light is visible.  
